@@ -11,6 +11,40 @@ fspy is an in memory python file system
 
 
 
+
+Dev Install
+--------
+
+Run::
+
+	python -m venv venv
+
+	. venv/bin/activate
+
+	pip install -r requirements_dev.txt
+
+	deactive
+
+Usage Install
+--------
+
+Run::
+
+	python -m venv venv
+
+	. venv/bin/activate
+
+	pip install -r requirements.txt
+
+	deactive
+
+
+Test
+--------
+
+::python setup.py test
+
+
 Features
 --------
 

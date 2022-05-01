@@ -42,7 +42,8 @@ Run::
 Test
 --------
 
-::
+Run::
+
 	python setup.py test
 
 

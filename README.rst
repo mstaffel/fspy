@@ -42,7 +42,8 @@ Run::
 Test
 --------
 
-::python setup.py test
+::
+	python setup.py test
 
 
 Features

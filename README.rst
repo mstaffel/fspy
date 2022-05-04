@@ -36,6 +36,8 @@ Run::
 
 	pip install -r requirements.txt
 
+	fspy
+
 	deactive
 
 
@@ -52,6 +54,9 @@ Features
 
 * TODO
 
+Fill out the CLI
+
+Add in error handling
 
 Credits
 -------
